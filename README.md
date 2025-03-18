@@ -77,6 +77,6 @@ GDP_t = \beta_0 + \sum_{i=1}^{n} \beta_i X_{t-i} + \sum_{j=1}^{m} \gamma_j S_{t-
 
 📊 **Granger Causality Tests confirm that economic sentiment influences GDP growth**, reinforcing the predictive power of **news-based sentiment indicators**.  
 
-![Granger Causality](NLP_Analysis/Granger_Cas_Tables.png) 
+![Granger Causality](Granger_Cas_Tables.png) 
 
 ---
