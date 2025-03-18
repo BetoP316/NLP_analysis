@@ -50,7 +50,7 @@ The **Autoregressive Distributed Lag (ARDL) model** combined with **LASSO regula
 GDP_t = \beta_0 + \sum_{i=1}^{n} \beta_i X_{t-i} + \sum_{j=1}^{m} \gamma_j S_{t-j} + \epsilon_t
 ```
 
-*(Where ```math \( S_{t-j} \)``` represents sentiment scores at lag \( j \))*  
+* Where $$ \( S_{t-j} \) $$ represents sentiment scores at $$ lag \( j \)$$ *
 
 
 📊 **Performance Metrics:**  
@@ -62,9 +62,6 @@ GDP_t = \beta_0 + \sum_{i=1}^{n} \beta_i X_{t-i} + \sum_{j=1}^{m} \gamma_j S_{t-
 
 📌 **Key Takeaway:** **Short-term predictions (1-3 months) improve significantly, but beyond 6 months, accuracy stabilizes.**  
 
-*(Example Model Fit Visualization:)*  
-![LASSO-ARDL Model Performance](https://your-image-link-here.com/lasso-ardl-fit.png) *(Replace with real performance chart)*  
-
 ---
 
 ## 🎯 Key Results & Insights  
@@ -73,10 +70,8 @@ GDP_t = \beta_0 + \sum_{i=1}^{n} \beta_i X_{t-i} + \sum_{j=1}^{m} \gamma_j S_{t-
 ✅ **Sentiment-enhanced models significantly outperform survey-based forecasts for short-term GDP predictions.**  
 ✅ **Economic downturns (COVID-19, 2015 Recession) create visible sentiment shifts affecting GDP trends.**  
 ✅ **LASSO-ARDL provides more stable forecasts by reducing overfitting and noise from textual data.**  
-✅ **While real-time sentiment analysis is effective for short horizons, structural surveys remain crucial for long-term projections.**  
+✅ **While real-time sentiment analysis is effective for short horizons, structural surveys remain crucial for long-term projections.**
 
-📊 **Granger Causality Tests confirm that economic sentiment influences GDP growth**, reinforcing the predictive power of **news-based sentiment indicators**.  
-
-![Granger Causality](Granger_Cas_Tables.png) 
+✅ (+) **Granger Causality Tests confirm that economic sentiment influences GDP growth, reinforcing the predictive power of news-based sentiment indicators.**
 
 ---
