@@ -1,6 +1,6 @@
-# Effectiveness of Sentiment Analysis in Predicting Ecuador’s GDP Annual Growth Rate Using Newspaper Textual Data (2000-2024)
+# Effectiveness of Sentiment Analysis in Predicting Ecuador’s GDP Annual Growth Rate Using Newspaper Textual Data (2001-2024)
 # 📌 Project Overview
-Ecuador’s economic volatility demands real-time insights. This study enhances GDP forecasting by integrating sentiment analysis from 240,000+ newspaper articles (2000–2024). Using NLP models (TextBlob, VADER, SpaCy) and LASSO-ARDL econometrics, we outperform traditional survey-based benchmarks for short-term predictions.
+Ecuador’s economic volatility demands real-time insights. This study enhances GDP forecasting by integrating sentiment analysis from 240,000+ newspaper articles (2001–2024). Using NLP models (TextBlob, VADER, SpaCy) and LASSO-ARDL econometrics, we outperform traditional survey-based benchmarks for short-term predictions.
 
 🔹 **Key Takeaways:**  
 ✅ Sentiment analysis improves **1-3 month** GDP forecasts 📉  
@@ -17,9 +17,9 @@ I analyzed **240,000+ news articles** from Ecuadorian newspapers between **2000-
 
 | Data Source | Timeframe | Data Type |
 |------------|-----------|------------|
-| Central Bank of Ecuador | 2000–2024 | GDP Growth Rate |
-| National Statistics Institute (INEC) | 2000–2024 | Business & Consumer Sentiment Surveys |
-| USFQ-DataHUB News Articles | 2000–2024 | Sentiment Analysis Indicators |
+| Central Bank of Ecuador | 2001–2024 | GDP Growth Rate |
+| National Statistics Institute (INEC) | 2001–2024 | Business & Consumer Sentiment Surveys |
+| USFQ-DataHUB News Articles | 2001–2024 | Sentiment Analysis Indicators |
 
 ---
 
